@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tony Letian Tang",
+    "email": "letiant@andrew.cmu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://tonyletiantang.github.io",
+    "summary": "Undergraduate Student at Carnegie Mellon University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,47 +16,38 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=93hHfv0AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0001-8882-9187"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tonyletiantang",
+        "url": "https://github.com/tonyletiantang"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Carnegie Mellon University",
+      "area": "B.S. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": 4.0,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Carnegie Mellon University",
+      "area": "B.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": 4.0,
       "courses": []
     }
   ],
@@ -66,18 +57,18 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "More-efficient Quantum Multivariate Mean Value Estimator from Generalized Grover Operator",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-04-9",
+      "website": "https://arxiv.org/abs/2504.06940",
+      "summary": "By combining existing ideas with novel techniques, I constructed the fastest multivariate mean value estimation. algorithm. For d dimension and $$d$$ success probability, the algorithm runs in only log(d/d))/log(1/d)) slower than the known lower bound."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Quantum Dueling: an Efficient Solution for Combinatorial Optimization",
+      "publisher": "Physica Scripta",
+      "releaseDate": "2024-04-01",
+      "website": "https://iopscience.iop.org/article/10.1088/1402-4896/ad2e55",
+      "summary": "An independent project where I discovered an efficient optimization algorithm based on the Grover operator. I recruited five fellow undergrads and trained them to start work. We demonstrated a strong performance of the algorithm via numerical simulations and justifications for its success."
     },
     {
       "name": "Paper Title Number 3",
