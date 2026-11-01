@@ -22,12 +22,12 @@ repository               : "tonyletiantang/tonyletiantang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "doggie2.jpg"
   name             : "Tony Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Researcher in Quantum Information"
-  location         : "Pittsburgh, PA"
-  employer         : "Carnegie Mellon University"
+  bio              : "PhD Student in Quantum Information"
+  location         : "College Park, MD"
+  employer         : "University of Maryland"
   uri              : # URL
   email            : "letiant@andrew.cmu.edu"
 
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=93hHfv0AAAAJ"
   impactstory      : # URL
-  orcid            : "htps://orcid.org/0000-0001-8882-9187"
+  orcid            : "https://orcid.org/0000-0001-8882-9187"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL

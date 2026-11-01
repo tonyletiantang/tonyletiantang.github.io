@@ -41,3 +41,18 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Hand-drawn doodle on the home page; the ink is inverted so it stays visible in dark mode */
+.doodle {
+  margin-top: 2.5em;
+  text-align: center;
+
+  img {
+    width: 240px;
+    max-width: 60%;
+  }
+}
+
+html[data-theme="dark"] .doodle img {
+  filter: invert(1);
+}
